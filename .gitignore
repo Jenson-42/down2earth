@@ -1,0 +1,11 @@
+/debug
+/target
+Cargo.lock
+**/*.rs.bk
+.pdb
+.env
+
+down2earth.log
+down2earth.config
+clouds.png
+down2earth.png
